@@ -1,7 +1,7 @@
 /**
 * Template Name: CKWEBSITE
 * Updated: APR 2023
-* Template URL: 
+* Template URL: https://themes.getbootstrap.com/licenses/
 * Author: CK
 * License: 
 */
